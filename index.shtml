@@ -1,0 +1,43 @@
+    		<!DOCTYPE html>
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-ls.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<img class="hero" src="assets/img/hero_logistics_index.jpg" alt="hero_logistics_index" />
+						<div class="clear"></div>
+    					<h1>Saia Logistics Services</h1>
+    					<h2>CONTROL the supply chain!</h2>
+						<p>The goal of logistics should not simply be to keep the supply chain moving, but to proactively manage it so that every action, every decision, yields as much productivity and savings as possible. That is the benefit and power of The RL Services Group.</p>
+                        <p>The RL Services Group, a Saia owned company, is a third party logistics team that operates independently. Leveraging the combined experience and expertise of our team members, we give our clients the added capabilities and insight to optimize their supply chain operations.</p>
+                        <p>We possess a wide range of capabilities used to create customized solutions for our clients. For some, that involves working on-site to fill gaps in their logistics management. For others, it means working side-by-side as consultants to develop valuable tools and processes that control and contain costs and provide useful information.</p>
+                        <div class="spacer1"></div>
+                        <h2>Additional Areas of Expertise</h2>
+                        <p>Other areas in which the RL Services Group works, either in a project, consultative, or embedded capacity, include:</p>
+                        <ul class="list">
+                            <li>Warehouse Operations</li>
+                            <li>Supply Chain Software Consultation</li>
+                            <li>Transportation/Distribution Analysis</li>
+                            <li>Cross-dock Programs</li>
+                            <li>Seminars &amp; Workshops</li>
+                            <li>Mode Analysis</li>
+                            <li>Logistics Call Center Personnel</li>
+                        </ul>
+                        <p>Each project or engagement is unique, customized to the needs and resources of our client.  Whether we are providing a specific service, integrating and managing converging processes, or working as an embedded part of our client's operation, our goal remains the same.</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-ls.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-ls.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

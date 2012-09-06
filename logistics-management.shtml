@@ -1,0 +1,30 @@
+    		<!DOCTYPE html>
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-ls.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<img class="hero" src="assets/img/hero_logistics_management.jpg" alt="hero_logistics_management" />
+						<div class="clear"></div>
+    					<h1>Supply Chain Analysis</h1>
+						<p>Every Supply Chain contains hidden and valuable data. We help clients access and use it. By customizing transportation and distribution reports, we can uncover information that reveals trends, enables clients to benchmark performance and reach new levels of productivity.</p>
+                        <div class="spacer5"></div>
+                        <h2>Transportation Management</h2>
+                        <p>The RL Services Group manages our clients’ supply chain, transportation, and distribution activities.  Our team can augment a small portion or provide a completely outsourced solution for clients of any size.  The results turn data into information and information into success.  Control, and cost containment are just a few of the outcomes we offer.</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-ls.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-ls.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

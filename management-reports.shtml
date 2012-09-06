@@ -1,0 +1,28 @@
+    		<!DOCTYPE html>
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-ls.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<img class="hero" src="assets/img/hero_management_reports.jpg" alt="hero_management_reports" />
+						<div class="clear"></div>
+    					<h1>Management Reports</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra laoreet mollis. Pellentesque suscipit varius lacus, et elementum justo consectetur at. Praesent ut fringilla libero. Aliquam erat volutpat.</p>
+                        <p>Vestibulum nec justo sit amet diam molestie malesuada eget nec sem. Nulla interdum volutpat lorem ac vestibulum. Nulla ac velit sed lectus molestie ullamcorper ut sit amet turpis. Mauris ac enim eu dui tincidunt iaculis. Quisque ac lacus enim. Aliquam erat volutpat. Sed id massa quam. Proin suscipit sodales turpis, eget venenatis nulla scelerisque nec. Vivamus fermentum tempus eros ut sollicitudin. Maecenas tempor lectus id mauris pretium placerat condimentum orci convallis. Sed mattis viverra eros, id iaculis justo interdum vel. Vestibulum ut tellus et purus dictum dictum.</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-ls.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-ls.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

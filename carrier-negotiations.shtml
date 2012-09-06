@@ -1,0 +1,34 @@
+    		<!DOCTYPE html>
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-ls.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<img class="hero" src="assets/img/hero_carrier_negotiations.jpg" alt="hero_carrier_negotiations" />
+						<div class="clear"></div>
+    					<h1>Carrier Negotiations</h1>
+						<p>Our logistics professionals are experts in carrier negotiations, helping clients attain lower rates and discounts for all transportation modes.  We also offer support in other key management areas.  Specific issues of expertise include:</p>
+                        <ul class="list">
+                            <li>TL and LTL Volume Discounts</li>
+                            <li>Local, Regional and National Truckload Rates</li></li>
+                            <li>Hazardous Materials Certifications</li>
+                            <li>Claims Processing</li>
+                            <li>On-site Logistics Personnel</li>
+                        </ul>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-ls.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-ls.html" -->
+			<!-- footer content end -->
+	</body>
+</html>
